@@ -1,0 +1,16 @@
+.popover {
+  position: absolute;
+  transform: translate(-43%, -100%);
+  top: -9px;
+}
+.popoverArrow {
+  position: absolute;
+  bottom: -7px;
+  left: 43%;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid rgb(255, 255, 255);
+  width: 0;
+  height: 0;
+  -webkit-filter: drop-shadow(0 2px 2px #cccccc);
+}

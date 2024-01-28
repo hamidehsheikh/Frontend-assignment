@@ -1,0 +1,3199 @@
+{
+  "creditcards": [
+    {
+      "id": "1",
+      "title": "Gebührenfrei Mastercard Gold",
+      "charge": 12.3,
+      "withdrawal_fees": 0.0,
+      "withdrawal_fees_description": "Die Bank erhebt keine pauschale Gebühr auf Bargeldabhebungen. Stattdessen fallen auf ausgezahlte Beträge ab dem ersten Tag Sollzinsen an. Eventuelle Gebühren der Automatenbetreiber werden nicht erstattet.",
+      "interest": 24.69,
+      "image": "card1",
+      "features": [
+        {
+          "title": "Gold-Karte mit Versicherungspaket",
+          "highlighted": true
+        },
+        {
+          "title": "Flexible Rückzahlung",
+          "highlighted": true
+        },
+        {
+          "title": "Einfache Beantragung",
+          "highlighted": false
+        }
+      ],
+      "rating": {
+        "score": "1,4",
+        "description": "Exzellent"
+      },
+      "information": [
+        {
+          "title": "Allgemein",
+          "items": [
+            {
+              "title": "Allgemeines",
+              "items": [
+                [
+                  {
+                    "title": "Kartenanbieter",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "gebührenfrei.de",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartenname",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Gebührenfrei Mastercard Gold",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartengesellschaft",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Mastercard",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karten-Art",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Credit",
+                    "icon": "",
+                    "description": "Diese Karte bietet Dir die Möglichkeit, den genutzten Kreditrahmen in Raten auszugleichen.",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechnungsausgleich",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Überweisung, flexible Rückzahlung",
+                    "icon": "",
+                    "description": "Wenn Du die Ratenzahlung nutzt, musst Du pro Monat mind. 3 % des genutzten Kreditrahmens bzw. mind. 30 € per Überweisung zurückzahlen. Du kannst Dein Kreditkartenkonto aber auch jederzeit vollständig ausgleichen, um Zinsen zu sparen.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Grundgebühr & Zinsen",
+              "items": [
+                [
+                  {
+                    "title": "Kartengebühr pro Jahr",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Eff. Jahreszins",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "24,69 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Eigenschaften & Funktionen",
+              "items": [
+                [
+                  {
+                    "title": "Girokonto bei Anbieter nötig",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Partnerkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kontaktlos bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Ja",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Mobil bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  [
+                    {
+                      "title": "Apple Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    },
+                    {
+                      "title": "Google Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "title": "Weitere Infos",
+              "items": [
+                [
+                  {
+                    "title": "Haftung bei Kartenverlust",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "50 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Ersatzkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bargeld / Bezahlung",
+          "items": [
+            {
+              "title": "Gebühren bei Bezahlung",
+              "items": [
+                [
+                  {
+                    "title": "Karteneinsatz Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz im Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Gebühren Bargeld abheben",
+              "items": [
+                [
+                  {
+                    "title": "Bargeld abheben Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Versicherung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Auslandskrankenversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiseunfallversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserücktrittsversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reisegepäckversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechtsschutz für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Haftpflicht für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Vollkaskoversicherung für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Geld-Zurück-Bonus (Cashback)",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bonus-Punktesystem",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Startguthaben",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Tankrabatt",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rabatte auf Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Hotelrabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bewertung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Gebühren",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Jahresgebühr, Kosten für Zahlungen und Abhebungen",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "8/11",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Funktionen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Möglichkeiten für Rechnungsausgleich per Lastschrift, mobiles Bezahlen, Teilzahlung und Beantragung ohne Girokonto",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "3/4",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Zusatz-Leistungen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Versicherungen und Rabatte",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "5/10",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Beantragung",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Einfachheit des Antrags und Abschluss-Chance",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "13/15",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Gesamt:",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "29/40",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Gebührenfrei Mastercard Gold",
+      "charge": 0.0,
+      "withdrawal_fees": 0.0,
+      "withdrawal_fees_description": "Die Bank erhebt keine pauschale Gebühr auf Bargeldabhebungen. Stattdessen fallen auf ausgezahlte Beträge ab dem ersten Tag Sollzinsen an. Eventuelle Gebühren der Automatenbetreiber werden nicht erstattet.",
+      "interest": 24.69,
+      "image": "card2",
+      "features": [
+        {
+          "title": "Gold-Karte mit Versicherungspaket",
+          "highlighted": true
+        },
+        {
+          "title": "Flexible Rückzahlung",
+          "highlighted": true
+        },
+        {
+          "title": "Einfache Beantragung",
+          "highlighted": false
+        }
+      ],
+      "rating": {
+        "score": "1,4",
+        "description": "Exzellent"
+      },
+      "information": [
+        {
+          "title": "Allgemein",
+          "items": [
+            {
+              "title": "Allgemeines",
+              "items": [
+                [
+                  {
+                    "title": "Kartenanbieter",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "gebührenfrei.de",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartenname",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Gebührenfrei Mastercard Gold",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartengesellschaft",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Mastercard",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karten-Art",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Credit",
+                    "icon": "",
+                    "description": "Diese Karte bietet Dir die Möglichkeit, den genutzten Kreditrahmen in Raten auszugleichen.",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechnungsausgleich",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Überweisung, flexible Rückzahlung",
+                    "icon": "",
+                    "description": "Wenn Du die Ratenzahlung nutzt, musst Du pro Monat mind. 3 % des genutzten Kreditrahmens bzw. mind. 30 € per Überweisung zurückzahlen. Du kannst Dein Kreditkartenkonto aber auch jederzeit vollständig ausgleichen, um Zinsen zu sparen.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Grundgebühr & Zinsen",
+              "items": [
+                [
+                  {
+                    "title": "Kartengebühr pro Jahr",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Eff. Jahreszins",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "24,69 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Eigenschaften & Funktionen",
+              "items": [
+                [
+                  {
+                    "title": "Girokonto bei Anbieter nötig",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Partnerkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kontaktlos bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Ja",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Mobil bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  [
+                    {
+                      "title": "Apple Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    },
+                    {
+                      "title": "Google Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "title": "Weitere Infos",
+              "items": [
+                [
+                  {
+                    "title": "Haftung bei Kartenverlust",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "50 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Ersatzkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bargeld / Bezahlung",
+          "items": [
+            {
+              "title": "Gebühren bei Bezahlung",
+              "items": [
+                [
+                  {
+                    "title": "Karteneinsatz Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz im Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Gebühren Bargeld abheben",
+              "items": [
+                [
+                  {
+                    "title": "Bargeld abheben Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Versicherung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Auslandskrankenversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiseunfallversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserücktrittsversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reisegepäckversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechtsschutz für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Haftpflicht für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Vollkaskoversicherung für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Geld-Zurück-Bonus (Cashback)",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bonus-Punktesystem",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Startguthaben",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Tankrabatt",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rabatte auf Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Hotelrabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bewertung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Gebühren",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Jahresgebühr, Kosten für Zahlungen und Abhebungen",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "8/11",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Funktionen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Möglichkeiten für Rechnungsausgleich per Lastschrift, mobiles Bezahlen, Teilzahlung und Beantragung ohne Girokonto",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "3/4",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Zusatz-Leistungen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Versicherungen und Rabatte",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "5/10",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Beantragung",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Einfachheit des Antrags und Abschluss-Chance",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "13/15",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Gesamt:",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "29/40",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Gebührenfrei Mastercard Gold",
+      "charge": 0.0,
+      "withdrawal_fees": 0.0,
+      "withdrawal_fees_description": "Die Bank erhebt keine pauschale Gebühr auf Bargeldabhebungen. Stattdessen fallen auf ausgezahlte Beträge ab dem ersten Tag Sollzinsen an. Eventuelle Gebühren der Automatenbetreiber werden nicht erstattet.",
+      "interest": 24.69,
+      "image": "card3",
+      "features": [
+        {
+          "title": "Gold-Karte mit Versicherungspaket",
+          "highlighted": true
+        },
+        {
+          "title": "Flexible Rückzahlung",
+          "highlighted": true
+        },
+        {
+          "title": "Einfache Beantragung",
+          "highlighted": false
+        }
+      ],
+      "rating": {
+        "score": "1,4",
+        "description": "Exzellent"
+      },
+      "information": [
+        {
+          "title": "Allgemein",
+          "items": [
+            {
+              "title": "Allgemeines",
+              "items": [
+                [
+                  {
+                    "title": "Kartenanbieter",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "gebührenfrei.de",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartenname",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Gebührenfrei Mastercard Gold",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartengesellschaft",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Mastercard",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karten-Art",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Credit",
+                    "icon": "",
+                    "description": "Diese Karte bietet Dir die Möglichkeit, den genutzten Kreditrahmen in Raten auszugleichen.",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechnungsausgleich",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Überweisung, flexible Rückzahlung",
+                    "icon": "",
+                    "description": "Wenn Du die Ratenzahlung nutzt, musst Du pro Monat mind. 3 % des genutzten Kreditrahmens bzw. mind. 30 € per Überweisung zurückzahlen. Du kannst Dein Kreditkartenkonto aber auch jederzeit vollständig ausgleichen, um Zinsen zu sparen.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Grundgebühr & Zinsen",
+              "items": [
+                [
+                  {
+                    "title": "Kartengebühr pro Jahr",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Eff. Jahreszins",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "24,69 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Eigenschaften & Funktionen",
+              "items": [
+                [
+                  {
+                    "title": "Girokonto bei Anbieter nötig",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Partnerkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kontaktlos bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Ja",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Mobil bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  [
+                    {
+                      "title": "Apple Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    },
+                    {
+                      "title": "Google Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "title": "Weitere Infos",
+              "items": [
+                [
+                  {
+                    "title": "Haftung bei Kartenverlust",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "50 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Ersatzkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bargeld / Bezahlung",
+          "items": [
+            {
+              "title": "Gebühren bei Bezahlung",
+              "items": [
+                [
+                  {
+                    "title": "Karteneinsatz Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz im Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Gebühren Bargeld abheben",
+              "items": [
+                [
+                  {
+                    "title": "Bargeld abheben Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Versicherung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Auslandskrankenversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiseunfallversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserücktrittsversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reisegepäckversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechtsschutz für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Haftpflicht für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Vollkaskoversicherung für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Geld-Zurück-Bonus (Cashback)",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bonus-Punktesystem",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Startguthaben",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Tankrabatt",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rabatte auf Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Hotelrabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bewertung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Gebühren",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Jahresgebühr, Kosten für Zahlungen und Abhebungen",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "8/11",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Funktionen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Möglichkeiten für Rechnungsausgleich per Lastschrift, mobiles Bezahlen, Teilzahlung und Beantragung ohne Girokonto",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "3/4",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Zusatz-Leistungen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Versicherungen und Rabatte",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "5/10",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Beantragung",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Einfachheit des Antrags und Abschluss-Chance",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "13/15",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Gesamt:",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "29/40",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Gebührenfrei Mastercard Gold",
+      "charge": 0.0,
+      "withdrawal_fees": 0.0,
+      "withdrawal_fees_description": "Die Bank erhebt keine pauschale Gebühr auf Bargeldabhebungen. Stattdessen fallen auf ausgezahlte Beträge ab dem ersten Tag Sollzinsen an. Eventuelle Gebühren der Automatenbetreiber werden nicht erstattet.",
+      "interest": 24.69,
+      "image": "card4",
+      "features": [
+        {
+          "title": "Gold-Karte mit Versicherungspaket",
+          "highlighted": true
+        },
+        {
+          "title": "Flexible Rückzahlung",
+          "highlighted": true
+        },
+        {
+          "title": "Einfache Beantragung",
+          "highlighted": false
+        }
+      ],
+      "rating": {
+        "score": "1,4",
+        "description": "Exzellent"
+      },
+      "information": [
+        {
+          "title": "Allgemein",
+          "items": [
+            {
+              "title": "Allgemeines",
+              "items": [
+                [
+                  {
+                    "title": "Kartenanbieter",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "gebührenfrei.de",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartenname",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Gebührenfrei Mastercard Gold",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartengesellschaft",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Mastercard",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karten-Art",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Credit",
+                    "icon": "",
+                    "description": "Diese Karte bietet Dir die Möglichkeit, den genutzten Kreditrahmen in Raten auszugleichen.",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechnungsausgleich",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Überweisung, flexible Rückzahlung",
+                    "icon": "",
+                    "description": "Wenn Du die Ratenzahlung nutzt, musst Du pro Monat mind. 3 % des genutzten Kreditrahmens bzw. mind. 30 € per Überweisung zurückzahlen. Du kannst Dein Kreditkartenkonto aber auch jederzeit vollständig ausgleichen, um Zinsen zu sparen.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Grundgebühr & Zinsen",
+              "items": [
+                [
+                  {
+                    "title": "Kartengebühr pro Jahr",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Eff. Jahreszins",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "24,69 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Eigenschaften & Funktionen",
+              "items": [
+                [
+                  {
+                    "title": "Girokonto bei Anbieter nötig",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Partnerkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kontaktlos bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Ja",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Mobil bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  [
+                    {
+                      "title": "Apple Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    },
+                    {
+                      "title": "Google Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "title": "Weitere Infos",
+              "items": [
+                [
+                  {
+                    "title": "Haftung bei Kartenverlust",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "50 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Ersatzkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bargeld / Bezahlung",
+          "items": [
+            {
+              "title": "Gebühren bei Bezahlung",
+              "items": [
+                [
+                  {
+                    "title": "Karteneinsatz Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz im Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Gebühren Bargeld abheben",
+              "items": [
+                [
+                  {
+                    "title": "Bargeld abheben Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Versicherung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Auslandskrankenversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiseunfallversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserücktrittsversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reisegepäckversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechtsschutz für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Haftpflicht für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Vollkaskoversicherung für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Geld-Zurück-Bonus (Cashback)",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bonus-Punktesystem",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Startguthaben",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Tankrabatt",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rabatte auf Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Hotelrabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bewertung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Gebühren",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Jahresgebühr, Kosten für Zahlungen und Abhebungen",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "8/11",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Funktionen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Möglichkeiten für Rechnungsausgleich per Lastschrift, mobiles Bezahlen, Teilzahlung und Beantragung ohne Girokonto",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "3/4",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Zusatz-Leistungen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Versicherungen und Rabatte",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "5/10",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Beantragung",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Einfachheit des Antrags und Abschluss-Chance",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "13/15",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Gesamt:",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "29/40",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Gebührenfrei Mastercard Gold",
+      "charge": 0.0,
+      "withdrawal_fees": 0.0,
+      "withdrawal_fees_description": "Die Bank erhebt keine pauschale Gebühr auf Bargeldabhebungen. Stattdessen fallen auf ausgezahlte Beträge ab dem ersten Tag Sollzinsen an. Eventuelle Gebühren der Automatenbetreiber werden nicht erstattet.",
+      "interest": 24.69,
+      "image": "card5",
+      "features": [
+        {
+          "title": "Gold-Karte mit Versicherungspaket",
+          "highlighted": true
+        },
+        {
+          "title": "Flexible Rückzahlung",
+          "highlighted": true
+        },
+        {
+          "title": "Einfache Beantragung",
+          "highlighted": false
+        }
+      ],
+      "rating": {
+        "score": "1,4",
+        "description": "Exzellent"
+      },
+      "information": [
+        {
+          "title": "Allgemein",
+          "items": [
+            {
+              "title": "Allgemeines",
+              "items": [
+                [
+                  {
+                    "title": "Kartenanbieter",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "gebührenfrei.de",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartenname",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Gebührenfrei Mastercard Gold",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kartengesellschaft",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Mastercard",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karten-Art",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Credit",
+                    "icon": "",
+                    "description": "Diese Karte bietet Dir die Möglichkeit, den genutzten Kreditrahmen in Raten auszugleichen.",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechnungsausgleich",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Überweisung, flexible Rückzahlung",
+                    "icon": "",
+                    "description": "Wenn Du die Ratenzahlung nutzt, musst Du pro Monat mind. 3 % des genutzten Kreditrahmens bzw. mind. 30 € per Überweisung zurückzahlen. Du kannst Dein Kreditkartenkonto aber auch jederzeit vollständig ausgleichen, um Zinsen zu sparen.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Grundgebühr & Zinsen",
+              "items": [
+                [
+                  {
+                    "title": "Kartengebühr pro Jahr",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Eff. Jahreszins",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "24,69 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Eigenschaften & Funktionen",
+              "items": [
+                [
+                  {
+                    "title": "Girokonto bei Anbieter nötig",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Partnerkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Nein",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Kontaktlos bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "Ja",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Mobil bezahlen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  [
+                    {
+                      "title": "Apple Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    },
+                    {
+                      "title": "Google Pay",
+                      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                      "description": "",
+                      "is_bold": false
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "title": "Weitere Infos",
+              "items": [
+                [
+                  {
+                    "title": "Haftung bei Kartenverlust",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "50 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Ersatzkarte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 €",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bargeld / Bezahlung",
+          "items": [
+            {
+              "title": "Gebühren bei Bezahlung",
+              "items": [
+                [
+                  {
+                    "title": "Karteneinsatz Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Karteneinsatz im Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0,00 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            },
+            {
+              "title": "Gebühren Bargeld abheben",
+              "items": [
+                [
+                  {
+                    "title": "Bargeld abheben Inland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Euro-Zone",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bargeld abheben Ausland",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "0 %",
+                    "icon": "",
+                    "description": "Der zugrunde gelegte Wechselkurs von Mastercard kann sich vom EZB-Referenzkurs unterscheiden und insofern ein zusätzliches Währungsumrechnungsentgelt enthalten.",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Versicherung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Auslandskrankenversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiseunfallversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserücktrittsversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reisegepäckversicherung",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rechtsschutz für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Haftpflicht für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Vollkaskoversicherung für Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Geld-Zurück-Bonus (Cashback)",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Bonus-Punktesystem",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Startguthaben",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Tankrabatt",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#7ab51d\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm13.36-1.814a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Rabatte auf Mietwagen",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Reiserabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Hotelrabatte",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  },
+                  {
+                    "title": "",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#d91e18\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-1.72 6.97a.75.75 0 1 0-1.06 1.06L10.94 12l-1.72 1.72a.75.75 0 1 0 1.06 1.06L12 13.06l1.72 1.72a.75.75 0 1 0 1.06-1.06L13.06 12l1.72-1.72a.75.75 0 1 0-1.06-1.06L12 10.94l-1.72-1.72Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bewertung",
+          "items": [
+            {
+              "title": "",
+              "items": [
+                [
+                  {
+                    "title": "Gebühren",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Jahresgebühr, Kosten für Zahlungen und Abhebungen",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "8/11",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Funktionen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Möglichkeiten für Rechnungsausgleich per Lastschrift, mobiles Bezahlen, Teilzahlung und Beantragung ohne Girokonto",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "3/4",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Zusatz-Leistungen",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Versicherungen und Rabatte",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "5/10",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Beantragung",
+                    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ff9800\" class=\"w-4 h-4\"><path fill-rule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm6-2.438c0-.724.588-1.312 1.313-1.312h4.874c.725 0 1.313.588 1.313 1.313v4.874c0 .725-.588 1.313-1.313 1.313H9.564a1.312 1.312 0 0 1-1.313-1.313V9.564Z\" clip-rule=\"evenodd\" /></svg>",
+                    "description": "Bewertet wird: Einfachheit des Antrags und Abschluss-Chance",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "13/15",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": false
+                  }
+                ],
+                [
+                  {
+                    "title": "Gesamt:",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  },
+                  {
+                    "title": "29/40",
+                    "icon": "",
+                    "description": "",
+                    "is_bold": true
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

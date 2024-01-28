@@ -1,0 +1,33 @@
+// TableComponent.scss
+.table-container {
+  @apply p-4; // Apply Tailwind padding utility
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  color: #404674;
+
+  th,
+  td {
+    border: 1px solid #dcdcdc; // Border color from Tailwind CSS
+    padding: 7px; // Padding from Tailwind CSS
+    font-weight: 400;
+    font-size: 14px;
+    width: 50%;
+  }
+
+  th {
+    font-size: 15px;
+    text-decoration: underline;
+    font-weight: bold;
+    //background-color: #edf2f7; // Background color from Tailwind CSS
+  }
+
+  .stripped {
+    tr:nth-child(odd) {
+      background-color: #f6f6f6; // Apply gray background to even rows
+    }
+  }
+}

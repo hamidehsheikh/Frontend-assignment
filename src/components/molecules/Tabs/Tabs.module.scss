@@ -1,0 +1,7 @@
+.wrapper {
+  & > div {
+    &:first-child {
+      width: fit-content;
+    }
+  }
+}

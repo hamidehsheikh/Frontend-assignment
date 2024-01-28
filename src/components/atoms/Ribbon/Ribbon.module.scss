@@ -1,0 +1,32 @@
+.ribbon {
+  & > div {
+    background: #65a4fe !important;
+    justify-content: flex-start !important;
+    padding: 2px 15px 2px 15px !important;
+    line-height: 21px;
+    margin-left: -23px;
+    width: 185px;
+    grid-column: 1 /2;
+    background: #7eb724;
+    color: #fff;
+    height: max-content;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
+    position: relative;
+    border-radius: 0px 5px 5px 5px;
+    box-shadow: 1px 1px 5px #ccc;
+  }
+  & > div::before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    border-top: 5px solid transparent;
+    left: 0px;
+    border-right-width: 10px !important;
+    border-right-color: #1360cd !important;
+  }
+}

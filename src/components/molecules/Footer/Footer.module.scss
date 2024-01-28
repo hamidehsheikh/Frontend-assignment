@@ -1,0 +1,10 @@
+.wrapper {
+  & > ul {
+    & > li {
+      padding-right: 15px;
+      & > a {
+        cursor: pointer;
+      }
+    }
+  }
+}

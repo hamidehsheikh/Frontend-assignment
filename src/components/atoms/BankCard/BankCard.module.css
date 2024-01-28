@@ -1,0 +1,8 @@
+.wrapper {
+  & > img {
+    height: 80px;
+    width: fit-content;
+    max-width: 160px;
+    max-height: fit-content;
+  }
+}
